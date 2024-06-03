@@ -1,0 +1,49 @@
+#first
+{
+    text-align: center;
+    color: white;
+    background-color: #22223b;
+    height: 100px;
+    padding: 10px;
+}
+#second
+{
+    display: inline-block; background-color: #9a8c98; width: 33%; height: 30px;
+    color: black;
+    text-align: center;
+}
+#second:hover
+{
+    background-color: azure;
+}
+#third
+{
+    height: 500px;
+    width: 1300px;
+    text-align: justify;
+    background-image: linear-gradient(to bottom right,rgb(0, 225, 255),rgb(135, 155, 235));
+    margin-left: 6%;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+#div1
+{
+    background-color: burlywood;
+    height: 700px;
+    width: 700px;
+    margin-left: 30%;
+    padding:10px;
+    color: black;
+    margin-top: 10px;
+}
+#form
+{
+    text-align: center;
+}
+#message
+{
+    height: 50px;
+    width: 80%;
+}
